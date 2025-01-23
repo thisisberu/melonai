@@ -11,17 +11,6 @@ AI based Agents for all your health and wellbeing's needs.
 ╚═╝     ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═╝
 
 
-```
- ███▄ ▄███▓▓█████  ██▓     ▒█████   ███▄    █     ▄▄▄       ██▓
-▓██▒▀█▀ ██▒▓█   ▀ ▓██▒    ▒██▒  ██▒ ██ ▀█   █    ▒████▄    ▓██▒
-▓██    ▓██░▒███   ▒██░    ▒██░  ██▒▓██  ▀█ ██▒   ▒██  ▀█▄  ▒██▒
-▒██    ▒██ ▒▓█  ▄ ▒██░    ▒██   ██░▓██▒  ▐▌██▒   ░██▄▄▄▄██ ░██░
-▒██▒   ░██▒░▒████▒░██████▒░ ████▓▒░▒██░   ▓██░    ▓█   ▓██▒░██░
-░ ▒░   ░  ░░░ ▒░ ░░ ▒░▓  ░░ ▒░▒░▒░ ░ ▒░   ▒ ▒     ▒▒   ▓▒█░░▓
-░  ░      ░ ░ ░  ░░ ░ ▒  ░  ░ ▒ ▒░ ░ ░░   ░ ▒░     ▒   ▒▒ ░ ▒ ░
-░      ░      ░     ░ ░   ░ ░ ░ ▒     ░   ░ ░      ░   ▒    ▒ ░
-       ░      ░  ░    ░  ░    ░ ░           ░          ░  ░ ░
-
 # Melon AI - Health & Wellness Assistant
 
 A sophisticated AI-powered health and wellness platform that combines chatbot capabilities with meal analysis and personalized health recommendations.
