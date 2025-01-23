@@ -5,18 +5,7 @@ import google.auth
 from dotenv import load_dotenv 
 load_dotenv() 
 
-credentials, project_id = google.auth.default() 
-PROJECT_ID = "amw-dna-coe-working-ds-dev"
-REGION = "us-central1"
-CREDENTIALS = credentials
-LOCATION_ID = "global"
-DATA_STORE_ID = "amway-articles_1727879500677" 
 
-DATA_STORE_ID2 = "who-blog-content_1727226322567"
-DATA_STORE_ID3 = "amway-insider_1717140077416"
-
-DATA_STORE_ID4= "core-plan-document-of-record_1728023514692" 
-LOCATION_ID4 = "us" 
 
 def setup_retrievers():
     retriever = VertexAIMultiTurnSearchRetriever(project_id=PROJECT_ID, location_id=LOCATION_ID, data_store_id=DATA_STORE_ID,get_extractive_answers=False) 
