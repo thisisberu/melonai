@@ -1,0 +1,21 @@
+{
+  "user_info": {
+    "full_name": "mannu gaddhyan",
+    "date_of_birth": "15/08/1999",
+    "gender": "Male",
+    "ethnicity": "Indian",
+    "profile_picture": "/Users/mannugaddhyan/Downloads/dpds-health-wellness-api/backend/temp_uploads/Untitled design.png",
+    "mobile_number": "9572453917",
+    "email": "gaddhyanmannu@gmail.com",
+    "address": "india ckd",
+    "national_id": "936010479030",
+    "identity_proof": "aadhar card",
+    "sponsor_abo_id": "12345",
+    "sponsor_abo_name": "kakashi",
+    "card_number": "1234567812345678",
+    "card_name": "mg",
+    "id_proof_image": "/Users/mannugaddhyan/Downloads/dpds-health-wellness-api/backend/temp_uploads/photo.png"
+  },
+  "current_section": "verification",
+  "timestamp": "2025-01-21 13:30:38"
+}

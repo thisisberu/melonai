@@ -1,0 +1,78 @@
+[2025-01-21 13:28:49] YOU: mannu gaddhyan
+
+[2025-01-21 13:28:52] AI ASSISTANT: mannu, could you please share your date of birth (DD/MM/YYYY)?
+
+[2025-01-21 13:28:57] YOU: 15/08/1999
+
+[2025-01-21 13:28:58] AI ASSISTANT: mannu, what gender should we record for your registration?
+
+[2025-01-21 13:29:00] YOU: male
+
+[2025-01-21 13:29:01] AI ASSISTANT: mannu, what is your ethnicity? This helps us better serve our diverse community.
+
+[2025-01-21 13:29:03] YOU: indian
+
+[2025-01-21 13:29:04] AI ASSISTANT: mannu, what is your ethnicity? This helps us better serve our diverse community.
+
+[2025-01-21 13:29:07] YOU: indian
+
+[2025-01-21 13:29:11] YOU: indain
+
+[2025-01-21 13:29:12] AI ASSISTANT: mannu, please provide your profile picture (JPG, JPEG, or PNG format, max 5MB)
+
+[2025-01-21 13:29:22] YOU: xyz
+
+[2025-01-21 13:29:22] AI ASSISTANT: Perfect! I've recorded all your basic information. Let's move on to setting up your contact details!
+
+mannu, what's the best mobile number to reach you?
+
+[2025-01-21 13:29:27] YOU: 9572453917
+
+[2025-01-21 13:29:28] AI ASSISTANT: mannu, please provide your email address for communications.
+
+[2025-01-21 13:29:37] YOU: gaddhyanmannu@gmail.com
+
+[2025-01-21 13:29:38] AI ASSISTANT: mannu, what's your current residential address?
+
+[2025-01-21 13:29:41] YOU: india ckd
+
+[2025-01-21 13:29:42] AI ASSISTANT: Excellent! Now that we have your contact information, let's proceed with identity verification.
+
+mannu, please provide your national ID number.
+
+[2025-01-21 13:29:48] YOU: 936010479030
+
+[2025-01-21 13:29:51] AI ASSISTANT: mannu, what type of government-issued ID are you using?
+
+[2025-01-21 13:29:54] YOU: aadhar card
+
+[2025-01-21 13:30:02] YOU: aadhar card
+
+[2025-01-21 13:30:03] AI ASSISTANT: Thank you for providing your identity details. Let's connect you with your Amway business network!
+
+mannu, please provide your sponsor's Amway Business Owner (ABO) ID number.
+
+[2025-01-21 13:30:07] YOU: 12345
+
+[2025-01-21 13:30:09] AI ASSISTANT: mannu, what is your sponsor's full name?
+
+[2025-01-21 13:30:14] YOU: kakashi
+
+[2025-01-21 13:30:15] AI ASSISTANT: Great! Your sponsor information has been recorded. Just one final step - let's set up your payment details.
+
+mannu, please provide your card number for business transactions.
+
+[2025-01-21 13:30:22] YOU: 1234567812345678
+
+[2025-01-21 13:30:23] AI ASSISTANT: mannu, what name appears on your card?
+
+[2025-01-21 13:30:25] YOU: mg
+
+[2025-01-21 13:30:28] YOU: mg
+
+[2025-01-21 13:30:29] AI ASSISTANT: Thank you for providing your payment details. Now, let's complete the final verification step.
+
+mannu, please provide a clear image of your government-issued ID (JPG, JPEG, or PNG format, max 5MB).
+
+[2025-01-21 13:30:38] YOU: xyz
+

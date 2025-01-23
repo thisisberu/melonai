@@ -1,0 +1,555 @@
+[2025-01-14 16:03:29] YOU: hello
+
+[2025-01-14 16:03:33] AI ASSISTANT: Hello! It's great to meet you today. I'm Gemini, your AI Registration Assistant for Amway Business Owner registration. Are you ready to get started? 
+
+I can guide you through the process and answer any questions you have along the way. Just let me know what you need.
+
+[2025-01-14 16:03:33] YOU: name is mg
+
+[2025-01-14 16:03:34] AI ASSISTANT: 
+Registration Progress:
+
+➤ Basic Information (1/5)
+   ✓ Full Legal Name: mg
+   ○ Date of Birth: Not provided
+   ○ Gender: Not provided
+   ○ Ethnicity: Not provided
+   ○ Profile Picture: Not uploaded
+
+  Contact Information (0/3)
+   ○ Mobile Number: Not provided
+   ○ Email Address: Not provided
+   ○ Residential Address: Not provided
+
+  Identity Verification (0/2)
+   ○ National ID Number: Not provided
+   ○ ID Type: Not provided
+
+  Sponsor Details (0/2)
+   ○ Sponsor ABO ID: Not provided
+   ○ Sponsor Name: Not provided
+
+  Payment Setup (0/2)
+   ○ Card Number: Not provided
+   ○ Name on Card: Not provided
+
+  Final Verification (0/1)
+   ○ Identity Proof Document: Not uploaded
+
+
+mg, could you please share your date of birth (DD/MM/YYYY)?
+
+[2025-01-14 16:03:58] YOU: male
+
+[2025-01-14 16:03:59] AI ASSISTANT: 
+Registration Progress:
+
+➤ Basic Information (2/5)
+   ✓ Full Legal Name: mg
+   ○ Date of Birth: Not provided
+   ✓ Gender: Male
+   ○ Ethnicity: Not provided
+   ○ Profile Picture: Not uploaded
+
+  Contact Information (0/3)
+   ○ Mobile Number: Not provided
+   ○ Email Address: Not provided
+   ○ Residential Address: Not provided
+
+  Identity Verification (0/2)
+   ○ National ID Number: Not provided
+   ○ ID Type: Not provided
+
+  Sponsor Details (0/2)
+   ○ Sponsor ABO ID: Not provided
+   ○ Sponsor Name: Not provided
+
+  Payment Setup (0/2)
+   ○ Card Number: Not provided
+   ○ Name on Card: Not provided
+
+  Final Verification (0/1)
+   ○ Identity Proof Document: Not uploaded
+
+
+mg, could you please share your date of birth (DD/MM/YYYY)?
+
+[2025-01-14 16:04:27] YOU: 15/08/1999
+
+[2025-01-14 16:04:28] AI ASSISTANT: 
+Registration Progress:
+
+➤ Basic Information (3/5)
+   ✓ Full Legal Name: mg
+   ✓ Date of Birth: 15/08/1999
+   ✓ Gender: Male
+   ○ Ethnicity: Not provided
+   ○ Profile Picture: Not uploaded
+
+  Contact Information (0/3)
+   ○ Mobile Number: Not provided
+   ○ Email Address: Not provided
+   ○ Residential Address: Not provided
+
+  Identity Verification (0/2)
+   ○ National ID Number: Not provided
+   ○ ID Type: Not provided
+
+  Sponsor Details (0/2)
+   ○ Sponsor ABO ID: Not provided
+   ○ Sponsor Name: Not provided
+
+  Payment Setup (0/2)
+   ○ Card Number: Not provided
+   ○ Name on Card: Not provided
+
+  Final Verification (0/1)
+   ○ Identity Proof Document: Not uploaded
+
+
+mg, what is your ethnicity? This helps us better serve our diverse community.
+
+[2025-01-14 16:04:50] YOU: indian
+
+[2025-01-14 16:04:51] AI ASSISTANT: 
+Registration Progress:
+
+➤ Basic Information (4/5)
+   ✓ Full Legal Name: mg
+   ✓ Date of Birth: 15/08/1999
+   ✓ Gender: Male
+   ✓ Ethnicity: Indian
+   ○ Profile Picture: Not uploaded
+
+  Contact Information (0/3)
+   ○ Mobile Number: Not provided
+   ○ Email Address: Not provided
+   ○ Residential Address: Not provided
+
+  Identity Verification (0/2)
+   ○ National ID Number: Not provided
+   ○ ID Type: Not provided
+
+  Sponsor Details (0/2)
+   ○ Sponsor ABO ID: Not provided
+   ○ Sponsor Name: Not provided
+
+  Payment Setup (0/2)
+   ○ Card Number: Not provided
+   ○ Name on Card: Not provided
+
+  Final Verification (0/1)
+   ○ Identity Proof Document: Not uploaded
+
+
+mg, please provide your profile picture (JPG, JPEG, or PNG format, max 5MB)
+
+[2025-01-14 16:05:13] YOU: /Users/mannugaddhyan/Downloads/photo.png
+
+[2025-01-14 16:05:13] AI ASSISTANT: Perfect! I've recorded all your basic information. Let's move on to setting up your contact details!
+
+
+Registration Progress:
+
+  Basic Information (5/5)
+   ✓ Full Legal Name: mg
+   ✓ Date of Birth: 15/08/1999
+   ✓ Gender: Male
+   ✓ Ethnicity: Indian
+   ✓ Profile Picture: Uploaded
+
+➤ Contact Information (0/3)
+   ○ Mobile Number: Not provided
+   ○ Email Address: Not provided
+   ○ Residential Address: Not provided
+
+  Identity Verification (0/2)
+   ○ National ID Number: Not provided
+   ○ ID Type: Not provided
+
+  Sponsor Details (0/2)
+   ○ Sponsor ABO ID: Not provided
+   ○ Sponsor Name: Not provided
+
+  Payment Setup (0/2)
+   ○ Card Number: Not provided
+   ○ Name on Card: Not provided
+
+  Final Verification (0/1)
+   ○ Identity Proof Document: Not uploaded
+
+
+Excellent progress! Now, I'll need your contact details so we can keep you updated.
+
+mg, what's the best mobile number to reach you?
+
+[2025-01-14 16:05:40] YOU: 9572453917
+
+[2025-01-14 16:05:41] AI ASSISTANT: 
+Registration Progress:
+
+  Basic Information (5/5)
+   ✓ Full Legal Name: mg
+   ✓ Date of Birth: 15/08/1999
+   ✓ Gender: Male
+   ✓ Ethnicity: Indian
+   ✓ Profile Picture: Uploaded
+
+➤ Contact Information (1/3)
+   ✓ Mobile Number: 9572453917
+   ○ Email Address: Not provided
+   ○ Residential Address: Not provided
+
+  Identity Verification (0/2)
+   ○ National ID Number: Not provided
+   ○ ID Type: Not provided
+
+  Sponsor Details (0/2)
+   ○ Sponsor ABO ID: Not provided
+   ○ Sponsor Name: Not provided
+
+  Payment Setup (0/2)
+   ○ Card Number: Not provided
+   ○ Name on Card: Not provided
+
+  Final Verification (0/1)
+   ○ Identity Proof Document: Not uploaded
+
+
+mg, please provide your email address for communications.
+
+[2025-01-14 16:06:02] YOU: gaddhyan@gmail.com ckd 
+
+[2025-01-14 16:06:03] AI ASSISTANT: 
+Registration Progress:
+
+  Basic Information (5/5)
+   ✓ Full Legal Name: mg
+   ✓ Date of Birth: 15/08/1999
+   ✓ Gender: Male
+   ✓ Ethnicity: Indian
+   ✓ Profile Picture: Uploaded
+
+➤ Contact Information (2/3)
+   ✓ Mobile Number: 9572453917
+   ✓ Email Address: gaddhyan@gmail.com
+   ○ Residential Address: Not provided
+
+  Identity Verification (0/2)
+   ○ National ID Number: Not provided
+   ○ ID Type: Not provided
+
+  Sponsor Details (0/2)
+   ○ Sponsor ABO ID: Not provided
+   ○ Sponsor Name: Not provided
+
+  Payment Setup (0/2)
+   ○ Card Number: Not provided
+   ○ Name on Card: Not provided
+
+  Final Verification (0/1)
+   ○ Identity Proof Document: Not uploaded
+
+
+mg, what's your current residential address?
+
+[2025-01-14 16:06:19] YOU: ckd
+
+[2025-01-14 16:06:20] AI ASSISTANT: 
+Registration Progress:
+
+  Basic Information (5/5)
+   ✓ Full Legal Name: mg
+   ✓ Date of Birth: 15/08/1999
+   ✓ Gender: Male
+   ✓ Ethnicity: Indian
+   ✓ Profile Picture: Uploaded
+
+➤ Contact Information (2/3)
+   ✓ Mobile Number: 9572453917
+   ✓ Email Address: gaddhyan@gmail.com
+   ○ Residential Address: Not provided
+
+  Identity Verification (0/2)
+   ○ National ID Number: Not provided
+   ○ ID Type: Not provided
+
+  Sponsor Details (0/2)
+   ○ Sponsor ABO ID: Not provided
+   ○ Sponsor Name: Not provided
+
+  Payment Setup (0/2)
+   ○ Card Number: Not provided
+   ○ Name on Card: Not provided
+
+  Final Verification (0/1)
+   ○ Identity Proof Document: Not uploaded
+
+
+mg, what's your current residential address?
+
+[2025-01-14 16:07:59] YOU: address is uppar baxar
+
+[2025-01-14 16:08:01] AI ASSISTANT: Excellent! Now that we have your contact information, let's proceed with identity verification.
+
+
+Registration Progress:
+
+  Basic Information (5/5)
+   ✓ Full Legal Name: mg
+   ✓ Date of Birth: 15/08/1999
+   ✓ Gender: Male
+   ✓ Ethnicity: Indian
+   ✓ Profile Picture: Uploaded
+
+  Contact Information (3/3)
+   ✓ Mobile Number: 9572453917
+   ✓ Email Address: gaddhyan@gmail.com
+   ✓ Residential Address: uppar baxar
+
+➤ Identity Verification (0/2)
+   ○ National ID Number: Not provided
+   ○ ID Type: Not provided
+
+  Sponsor Details (0/2)
+   ○ Sponsor ABO ID: Not provided
+   ○ Sponsor Name: Not provided
+
+  Payment Setup (0/2)
+   ○ Card Number: Not provided
+   ○ Name on Card: Not provided
+
+  Final Verification (0/1)
+   ○ Identity Proof Document: Not uploaded
+
+
+You're doing great! For compliance and security, we need to verify your identity.
+
+mg, please provide your national ID number.
+
+[2025-01-14 16:14:37] YOU: 936010479030
+
+[2025-01-14 16:14:40] YOU: 936010479030
+
+[2025-01-14 16:14:43] AI ASSISTANT: 
+Registration Progress:
+
+  Basic Information (5/5)
+   ✓ Full Legal Name: mg
+   ✓ Date of Birth: 15/08/1999
+   ✓ Gender: Male
+   ✓ Ethnicity: Indian
+   ✓ Profile Picture: Uploaded
+
+  Contact Information (3/3)
+   ✓ Mobile Number: 9572453917
+   ✓ Email Address: gaddhyan@gmail.com
+   ✓ Residential Address: uppar baxar
+
+➤ Identity Verification (1/2)
+   ✓ National ID Number: ********9030
+   ○ ID Type: Not provided
+
+  Sponsor Details (0/2)
+   ○ Sponsor ABO ID: Not provided
+   ○ Sponsor Name: Not provided
+
+  Payment Setup (0/2)
+   ○ Card Number: Not provided
+   ○ Name on Card: Not provided
+
+  Final Verification (0/1)
+   ○ Identity Proof Document: Not uploaded
+
+
+mg, what type of government-issued ID are you using?
+
+[2025-01-14 16:14:59] YOU: adhar card
+
+[2025-01-14 16:15:00] AI ASSISTANT: Thank you for providing your identity details. Let's connect you with your Amway business network!
+
+
+Registration Progress:
+
+  Basic Information (5/5)
+   ✓ Full Legal Name: mg
+   ✓ Date of Birth: 15/08/1999
+   ✓ Gender: Male
+   ✓ Ethnicity: Indian
+   ✓ Profile Picture: Uploaded
+
+  Contact Information (3/3)
+   ✓ Mobile Number: 9572453917
+   ✓ Email Address: gaddhyan@gmail.com
+   ✓ Residential Address: uppar baxar
+
+  Identity Verification (2/2)
+   ✓ National ID Number: ********9030
+   ✓ ID Type: adhar card
+
+➤ Sponsor Details (0/2)
+   ○ Sponsor ABO ID: Not provided
+   ○ Sponsor Name: Not provided
+
+  Payment Setup (0/2)
+   ○ Card Number: Not provided
+   ○ Name on Card: Not provided
+
+  Final Verification (0/1)
+   ○ Identity Proof Document: Not uploaded
+
+
+You're almost there! Let's connect you with your Amway business network.
+
+mg, please provide your sponsor's Amway Business Owner (ABO) ID number.
+
+[2025-01-14 16:15:23] YOU: sponso id is 1234 name is avfdvdvb
+
+[2025-01-14 16:16:08] YOU: sponso id is 1234 
+
+[2025-01-14 16:16:09] AI ASSISTANT: 
+Registration Progress:
+
+  Basic Information (5/5)
+   ✓ Full Legal Name: mg
+   ✓ Date of Birth: 15/08/1999
+   ✓ Gender: Male
+   ✓ Ethnicity: Indian
+   ✓ Profile Picture: Uploaded
+
+  Contact Information (3/3)
+   ✓ Mobile Number: 9572453917
+   ✓ Email Address: gaddhyan@gmail.com
+   ✓ Residential Address: uppar baxar
+
+  Identity Verification (2/2)
+   ✓ National ID Number: ********9030
+   ✓ ID Type: adhar card
+
+➤ Sponsor Details (1/2)
+   ✓ Sponsor ABO ID: 1234
+   ○ Sponsor Name: Not provided
+
+  Payment Setup (0/2)
+   ○ Card Number: Not provided
+   ○ Name on Card: Not provided
+
+  Final Verification (0/1)
+   ○ Identity Proof Document: Not uploaded
+
+
+mg, what is your sponsor's full name?
+
+[2025-01-14 16:16:21] YOU: vfsgfdg 
+
+[2025-01-14 16:16:22] AI ASSISTANT: Great! Your sponsor information has been recorded. Just one final step - let's set up your payment details.
+
+
+Registration Progress:
+
+  Basic Information (5/5)
+   ✓ Full Legal Name: mg
+   ✓ Date of Birth: 15/08/1999
+   ✓ Gender: Male
+   ✓ Ethnicity: Indian
+   ✓ Profile Picture: Uploaded
+
+  Contact Information (3/3)
+   ✓ Mobile Number: 9572453917
+   ✓ Email Address: gaddhyan@gmail.com
+   ✓ Residential Address: uppar baxar
+
+  Identity Verification (2/2)
+   ✓ National ID Number: ********9030
+   ✓ ID Type: adhar card
+
+  Sponsor Details (2/2)
+   ✓ Sponsor ABO ID: 1234
+   ✓ Sponsor Name: avfdvdvb
+
+➤ Payment Setup (0/2)
+   ○ Card Number: Not provided
+   ○ Name on Card: Not provided
+
+  Final Verification (0/1)
+   ○ Identity Proof Document: Not uploaded
+
+
+Final step! Let's set up your payment information to start your journey.
+
+mg, please provide your card number for business transactions.
+
+[2025-01-14 16:16:35] YOU:  1000000000000000 
+
+[2025-01-14 16:16:36] AI ASSISTANT: 
+Registration Progress:
+
+  Basic Information (5/5)
+   ✓ Full Legal Name: mg
+   ✓ Date of Birth: 15/08/1999
+   ✓ Gender: Male
+   ✓ Ethnicity: Indian
+   ✓ Profile Picture: Uploaded
+
+  Contact Information (3/3)
+   ✓ Mobile Number: 9572453917
+   ✓ Email Address: gaddhyan@gmail.com
+   ✓ Residential Address: uppar baxar
+
+  Identity Verification (2/2)
+   ✓ National ID Number: ********9030
+   ✓ ID Type: adhar card
+
+  Sponsor Details (2/2)
+   ✓ Sponsor ABO ID: 1234
+   ✓ Sponsor Name: avfdvdvb
+
+➤ Payment Setup (1/2)
+   ✓ Card Number: ********0000
+   ○ Name on Card: Not provided
+
+  Final Verification (0/1)
+   ○ Identity Proof Document: Not uploaded
+
+
+mg, what name appears on your card?
+
+[2025-01-14 16:16:43] YOU:  dfffsf 
+
+[2025-01-14 16:16:44] AI ASSISTANT: Thank you for providing your payment details. Now, let's complete the final verification step.
+
+
+Registration Progress:
+
+  Basic Information (5/5)
+   ✓ Full Legal Name: mg
+   ✓ Date of Birth: 15/08/1999
+   ✓ Gender: Male
+   ✓ Ethnicity: Indian
+   ✓ Profile Picture: Uploaded
+
+  Contact Information (3/3)
+   ✓ Mobile Number: 9572453917
+   ✓ Email Address: gaddhyan@gmail.com
+   ✓ Residential Address: uppar baxar
+
+  Identity Verification (2/2)
+   ✓ National ID Number: ********9030
+   ✓ ID Type: adhar card
+
+  Sponsor Details (2/2)
+   ✓ Sponsor ABO ID: 1234
+   ✓ Sponsor Name: avfdvdvb
+
+  Payment Setup (2/2)
+   ✓ Card Number: ********0000
+   ✓ Name on Card: dfffsf
+
+➤ Final Verification (0/1)
+   ○ Identity Proof Document: Not uploaded
+
+
+To complete your registration, please provide your identity proof document for verification.
+
+mg, please provide a clear image of your government-issued ID (JPG, JPEG, or PNG format, max 5MB).
+
